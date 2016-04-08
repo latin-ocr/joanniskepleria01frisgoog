@@ -1,0 +1,73 @@
+caput VI. 3. 275
+
+eorporis semidiameter a Ptolemaeo proditur Fig. 87-
+esse 15⁴ 40¹¹, ut Reinholdus ipse dicto
+libello fol. 209. (331) assumit. Angulus
+ergo OHD est 15⁴ 40⁴⁴. Et quia FD est
+perpendicularis ad DH, ex constructione,
+CH vero tangit circulum in C, unde DC,
+quae ex D centro in O contactum est per-
+pendicularis in GH, erunt igitur FDH, DCH
+aequales et recti. In triangulo igitur DCH
+rectangulo residui CDH‚ CHD junctim sunt
+aequales recto DCH. Sunt autem et CDH‚
+CDF junctim aequales recto FDH. com-
+muni ergo CDH ablate, residuus FDC
+residuo CHD aequalis est, quare arcus
+FC est 15¹ 40⁴¹, aequalis vero GB et
+summa utriusque 31⁴ 20¹¹ et FAG semi-
+
+circulus vel 180⁰, ergo CAB 180⁰ 31¹ 20¹¹ ³152*
+et residuus CEB 179ο 28⁴ 40¹¹. Haec est
+
+ 
+
+omnium maxima quantitas arcus CAB,
+nempe tunc cum Luna et in apogaeo est ff
+et nova. Pel-pende namque, qnod H sit f'
+
+mucro umbrae Lunae idemque et locus, in
+quo Sol et Luna aequali angulo spectantur.
+Et cum ejusdem globi umbra longior fiat
+acutior, si nempe globus illuminandus a globo
+majore illuminante discedat longiuS, ergo
+ubi longius discesserit Luna a Sole secun-
+dum rectam lineam, ibi et umbrae mucro
+
+erit acutior quam est angulus 31⁴ 20⁴⁴ ἲ
+,π
+
+visionis in apogae0. Quare Luna nova in
+
+perigaeo, cum secundum notionem vocis ad
+
+Terram accesserit ac proinde a Sole reces-
+
+serit, acutiori angulo finiet umbram. Rur-
+
+sum Luna plena, quando 60 fere semi-
+
+diametris Terrae longius a Sole. abest quam
+
+Terra (cum in novilunio totidem semi-
+
+diametris Soli propior fuisset quam Terra),
+
+multo acutiori mucrone umbram claudet:
+
+multo igitur minor erit arcus FC quam 15¹ 401¹, idque secundum placita
+Ptolemaei, quae hic ex Reinholdi sententia sumus secuti.
+
+Ut autem et sciamuS, quanti sint arcus FC vel GB cum omnium
+minimi sunt: continuetur ergo DH in I et fiant HI, HD aequales (dissi-
+mulata jam semidiametro Terrae), ut Luna sit iu apogaeo rursum, et
+vicissim plena. In quo situ tangat Lunam et Solem recta KL, concurrens
+cnm Hc producta in L, continuenturque LK et DI ad concursum iu M, et
+sit HL ex placitis Ptolemaei 1210 semidiametri, HC vero et HK 64, ut
+GK sit 128 fere et CL, subtracta CH, sit 1146. Hic enim subtilitate -uon
+est opus. In triangulo igitur LCK dantur latera LC, CK et angulus LCK,
+enm enim GK et DI sint parallelae, erunt DHC et HCK aequales: quare
+LCK residuus ad semicirculum, scilicet 179ο 44’ 20”. Hinc prodit angulus
+
+18*
+
