@@ -1,0 +1,61 @@
+. caput IL ⁸ 155
+
+ΕΟΙ radius ponitur utrique superficiei FGll et MKL perpendicularis Ergo
+(E. XI, II) )parallela plaua erunt. Quare( Ε. XI, 16) lsectiones duae FG
+et MK ejusdem plani ΜΕΚ cum duobus parallelis ΕΘΗ et ΔΘ eruut
+paralleli, idem demonstrabitur eodem rrrodo de ΘΙΙ et KL, de HF et LM
+adeoque infinitis lateribus, si essent. Per Eucl. XI, 10. igitur ΕΗ et HG
+concurrentium angulus FHG erit aequalis angulo MLK parallelarum prio-
+ribus et concurrentium. Eodem modo omnes anguli unius omnibus alterius
+fient aequales. Sedet latera lateribus sunt proportionalia. Nam (Ε. XI, 17)
+AC et FEG plana secant rectas concurrentes ΕΚ, ΕΜ, ΕΚ et quotcunque
+alias iu rationes easdem. Itaque ut ΜΕ ad EF, sic ΚΕ ad EG et per-
+mutatim, ut ΜΕ ad ΕΚ, sic FE ad ΕΘ, communis vero angulus adE.
+ErgoOE. VI, 6) FEG et ΜΕΚ sunt aequianguln. QuareOE VI, 4) FG
+et MK suut homologa, et sie omnia latera unius omnibus alterius; ergo
+(Ε. VI, def. f.) figurae sunt similes. At ultra MKL terminos descendentium
+per extrema fenestrae nullus cadit radius, sed umbra (Cap. I, 4), quia
+partes fenestrae F GH clrcumjectae opacae supponuntur. Ergo portio parietis
+illustrati MKL figuram habet similem fenestrae FGII, quod erat demon-
+
+strandum. Conuectautur jam 0, I centra curn angulis quibuscunque, ut
+jam cumF, G, IIet M, K, L. Dico EO esso ad OF, sicut EI ad ΙΜ;
+OF sero et [Μ aut quaecuuque tales, cum aequaliter sese babeant ad
+
+dimetientes suos, quia figurae slmiles, et (ΕΟ sit distantia fenestrae apunoto
+lucido, EI vero distantia parietis indidem; clara est etiam altera pars
+propositionis.
+
+Corollarium. Sequitur hino a quolibet superficiei lucentis puncto redium
+pyramidalern' m objectum parietem projici, cujus basis figurae fenestrae sit similis;
+itaque descendentem a tota superficie lucente radium in illustratum parietem eou-
+stare ex infinitis in potentin. liguris, fenestrae similibus, se mutuo confundentibus,
+et fere in idem parietis spetlum incunrbeutibus; quae terminos tamen singulae
+proprios habiturae sint, si separentur.
+
+Prop. ll. Si unicum puuctum luceat, a pariete et fenestra
+propiaquis inaestimabili submotum intervallo, lumen in pariete
+reete objecto uon liguram tantum, sedet quantitatem fenestrae,
+quam recto itinere transiit, repraesentabit. Sitia priore figura
+lucens punctum E, fenestra FGII, paries illustratus MKL et sit proportio
+ΕΟ ad OF inaestimabilis; ut si ΕΟ metiretur distantiam fenestrae et Solis
+uel Lunae immanem, OF vero pusillam diametrum fenestrae. Dico F GH
+et MKL ad sensum aequales esse. Cum enim FO vel quaeeunque linea
+ex centro fenestrae FGll sensibilem babeat proportionem ad Ol, quia sup-
+ponuntur propinquae superficies, sed OF insensibilem ad ΟΕ, habebit et Ol
+insensibilem ad ΟΕ. Quare per postulatum radii EF et EO, connexi basi
+FO iusensibilem adse quantitatem habente, sunt ad< ssen ιιιιι aequidistautcs
+Aequales tero sunt EOF, EIM anguli et in eodem trianguli ΕΙΜ plano,
+quare (Ε. Ι, 27) OF et [Μ sunt aequidistautcs etti, [33) aequales ad
+sensum. Idem porro de quibuscunque ex 0 et Ι centris similiter eductis
+demonstrari potest. Tota ergo FGIl toti MKL ad sensum aequalis est:
+sed ct similis per prImam hujus. Si ergo unicum tac. quod erat de-
+monstrandum.
+
+Prop. III. Si fenestra punctum esse posset matbematIcum,
+
+lumen recte objecti parietis exquisite indueret liguram illu-
+strantis superficiei, sed ruversam; et eadem foret proportio
+
+ 
+
